@@ -15,13 +15,13 @@ Object Detection
 
 **Custom Yolo-v3 config:
 
-> convolutional 
+- convolutional 
 filters=24
 =======================
-> yolo
+-yolo
 classes=3
 ====================
-learning_rate=0.001
+-learning_rate=0.001
 burn_in=1000
 max_batches = 6000
 policy=steps
