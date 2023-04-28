@@ -17,10 +17,10 @@ Object Detection
 
 - convolutional 
 filters=24
-=======================
+
 -yolo
 classes=3
-====================
+
 -learning_rate=0.001
 burn_in=1000
 max_batches = 6000
